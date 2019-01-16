@@ -1,7 +1,7 @@
 # jQuery Crop and Rotate Image
 
 
-[View Demo](https://github.com/AniruddhPurohit/jQuery-CropRotate)
+[View Demo](https://aniruddhpurohit.github.io/jQuery-CropRotate/)
 
 ## Bootstrap
 * [CSS](https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css)
